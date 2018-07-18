@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-
+#define DEV1 2
 #define DEV 1
 
 int main(int argc, char**argv)
