@@ -3,6 +3,7 @@
 #include <string.h>
 
 
+#define DEV 1
 
 int main(int argc, char**argv)
 {
