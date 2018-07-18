@@ -1,2 +1,2 @@
 # gitskills
-git is a free software.
+git is a free software and my name is guangwei.
