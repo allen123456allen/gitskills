@@ -3,6 +3,7 @@
 #include <string.h>
 
 #define MAIN 1
+#define FEATURE 1
 
 int main(int argc, char**argv)
 {
