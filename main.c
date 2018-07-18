@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define MAIN 1
+#define FEATURE1 1
 
 int main(int argc, char**argv)
 {
